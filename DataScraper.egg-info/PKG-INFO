@@ -1,0 +1,23 @@
+Metadata-Version: 2.4
+Name: DataScraper
+Version: 0.1.0
+Summary: A web data scraper package of Python
+Author: NathanYYDS
+Author-email: 2200394635@qq.com
+Classifier: Development Status :: 4 - Beta
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Intended Audience :: Developers
+Requires-Python: >=3.7
+License-File: LICENSE
+Requires-Dist: requests
+Requires-Dist: click
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
